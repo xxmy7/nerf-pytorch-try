@@ -173,7 +173,7 @@ python run_nerf.py --config configs/{DATASET}.txt --no_ndc --spherify
 
 图片来自[1]
 
-![2dc6e4ee4b7c42b19d647ff7200a7d6e](nerf_pytorch.assets\2dc6e4ee4b7c42b19d647ff7200a7d6e.png)
+![2dc6e4ee4b7c42b19d647ff7200a7d6e](nerf_pytorch.assets/2dc6e4ee4b7c42b19d647ff7200a7d6e.png)
 
 ### 文件结构
 
