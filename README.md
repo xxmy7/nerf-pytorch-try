@@ -1726,10 +1726,13 @@ def raw2outputs(raw, z_vals, rays_d, raw_noise_std=0, white_bkgd=False, pytest=F
 [4]https://liwen.site/archives/2302
 
 知识点参考(推荐)：
+
 一个讲图形学的网站
+
 [5]https://www.scratchapixel.com/index.php?redirect
 
 一个人的关于OpenGL的博客
+
 [6]http://www.songho.ca/opengl/gl_projectionmatrix.html
 
 参考的issue：
